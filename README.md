@@ -6,10 +6,15 @@ VPC-Voyager is a project developed for CYBER 210 at UC Berkeley, focusing on dem
 
 ## Goals
 
-- **Demonstrate Network Scanning**: Implement and demonstrate various network scanning techniques within an AWS VPC.
-- **Explore Cloud Networking**: Delve into TCP/IP and DNS functionalities in a cloud environment.
-- **Compare Security Practices**: Analyze the differences between cloud-native and traditional network security practices.
-- **Hands-On Cloud Experience**: Provide a practical experience in setting up and securing cloud resources using AWS and Terraform.
+- **Demonstrate Network Scanning**: Implement and showcase various network scanning techniques within an AWS VPC. Utilize tools like Nmap and Wireshark, demonstrating their application in a cloud-native environment.
+
+- **Explore Cloud Networking**: Investigate TCP/IP and DNS functionalities in the context of AWS. Understand how cloud networking leverages these fundamental protocols and how it differs from traditional network infrastructures.
+
+- **Compare Security Practices**: Examine the differences and similarities between security practices in cloud-native environments and traditional network setups, focusing on aspects like firewalls, intrusion detection, and security groups.
+
+- **Hands-On Cloud Experience with IaC**: Gain practical experience in deploying and managing cloud resources using AWS. Utilize Terraform as a key tool for Infrastructure as Code, enabling efficient, repeatable, and scalable infrastructure deployment. This approach not only streamlines the provisioning process but also introduces best practices in cloud resource management.
+
+- **Infrastructure as Code (IaC) with Terraform**: Emphasize the use of Terraform for defining, deploying, and modifying cloud infrastructure in a codified manner. This method ensures consistency across environments, simplifies change management, and enhances collaboration among team members.
 
 ## System Setup
 
